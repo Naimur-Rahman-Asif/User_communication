@@ -1,0 +1,19 @@
+<resources>
+	<string name="app_name">User Communications</string>
+	<string name="snackbar_str">This is a Snackbar</string>
+	<string name="ToastActivity">Toast Messages</string>
+	<string name="DialogActivity">Dialogs</string>
+	<string name="SnackbarActivity">Snackbar Messages</string>
+	<string name="NotificationsActivity">Notifications</string>
+	<string name="FirstNameHint">First Name</string>
+	<string name="LastNameHint">Last Name</string>
+	<string name="LongMsg">This is a notification style that can contain a large amount of text.
+		It works really well when you have a large amount of information to display in
+		the notification area and want the user to be able to expand the message to see
+		all of the content.</string>
+	<string name="launch_toast_activity">Launch Toast Activity</string>
+	<string name="launch_snackbar_activity">Launch Snackbar Activity</string>
+	<string name="launch_dialog_activity">Launch Dialog Activity</string>
+	<string name="launch_notification_activity">Launch Notification Activity</string>
+	<string name="string_custom_toast">This is custom toast</string>
+</resources>
